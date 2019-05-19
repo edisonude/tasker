@@ -305,6 +305,11 @@ a:hover {
     padding-bottom: 35px;
 }
 
+.technologies .why{
+    text-align: center;
+    margin: 45px 10px;
+}
+
 .technologies .technologie {
     padding: 0 25px;
     padding-bottom: 60px;
@@ -566,6 +571,19 @@ a:hover {
     background-image: url("../images/banner-team.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.team .title{
+    color: #ff9900;
+    font-size: 12px;
+}
+
+.team .message{
+    color: rgba(255, 255, 255, 0.6901960784313725);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-align: justify;
+    margin: 10px 0px;
 }
 
 .team h4 {
@@ -2368,4 +2386,8 @@ Blog-page
     background-color: #161616;
     color:white;
     padding: 5px;
+}
+
+.star-checked{
+    color:yellow;
 }
